@@ -2,7 +2,7 @@ const colorCache = {
 
 }
 
-exports function (startColor, endColor, percent){
+module.exports = function (startColor, endColor, percent){
   
   let key = startColor+endColor 
   

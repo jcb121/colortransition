@@ -1,6 +1,6 @@
 {
   "name": "colortransition",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a library for transitioning colors in js",
   "main": "index.js",
   "scripts": {
