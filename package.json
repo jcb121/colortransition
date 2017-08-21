@@ -1,5 +1,5 @@
 {
-  "name": "colortransistion",
+  "name": "colortransition",
   "version": "1.0.0",
   "description": "a library for transitioning colors in js",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jcb121/colortransistion.git"
+    "url": "git+https://github.com/jcb121/colortransition.git"
   },
   "author": "Jesse Baker",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jcb121/colortransistion/issues"
+    "url": "https://github.com/jcb121/colortransition/issues"
   },
-  "homepage": "https://github.com/jcb121/colortransistion#readme"
+  "homepage": "https://github.com/jcb121/colortransition#readme"
 }
