@@ -2,7 +2,7 @@ const colorCache = {
 
 }
 
-exports.colorTransition = function (startColor, endColor, percent){
+exports function (startColor, endColor, percent){
   
   let key = startColor+endColor 
   
